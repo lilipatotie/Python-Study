@@ -1,2 +1,2 @@
 # Python-Study
-My path to being a python warrior
+My path to becoming a python warrior
